@@ -16,7 +16,7 @@ Telecom companies often lose a portion of their customers due to churn. By predi
 
 
 
-\## 🛠️ Tech Stack
+\##  Tech Stack
 
 
 
