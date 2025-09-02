@@ -50,7 +50,7 @@ Telecom companies often lose a portion of their customers due to churn. By predi
 
 
 
-\## 🧪 Machine Learning Models
+\##  Machine Learning Models
 
 | Model               | Accuracy | Precision | Recall | F1-score |
 |--------------------|----------|-----------|--------|----------|
